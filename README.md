@@ -13,6 +13,10 @@ El proyecto se desarrolló utilizando las siguientes bibliotecas:
 - **numpy**: Utilizada para realizar cálculos numéricos y operaciones en matrices.
 - **Jupyter Notebook**: El proyecto se desarrolló en Jupyter Notebook en el ambiente de VS Code.
 
+## Código fuente
+
+El código fuente completo se encuentra disponible en el archivo [aquí](https://github.com/fofojaramillo/datsci-prog-proyecto/blob/main/ind-marg.ipynb). Este archivo contiene el código en Python, junto con los pasos y resultados del proyecto. Para obtener información más detallada, consulta el código fuente y los comentarios en el archivo Python.
+
 ## Contenido del proyecto
 
 El proyecto se resume de la siguiente manera:
@@ -33,10 +37,5 @@ El proyecto se resume de la siguiente manera:
 
 - Hay un archivo *.parquet* hecho a partir de dataframe final del proyecto.
 - Las graficas obtenidas estan [aquí](https://github.com/fofojaramillo/datsci-prog-proyecto/tree/main/graficas).
-- 
-
-## Código fuente
-
-El código fuente completo se encuentra disponible en el archivo [aquí](https://github.com/fofojaramillo/datsci-prog-proyecto/blob/main/ind-marg.ipynb). Este archivo contiene el código en Python, junto con los pasos y resultados del proyecto. Para obtener información más detallada, consulta el código fuente y los comentarios en el archivo Python.
 
 Cualquier cosa, detalle, observación, estoy al pendiente.
