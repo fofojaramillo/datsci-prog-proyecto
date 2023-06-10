@@ -2,7 +2,7 @@
 
 Este proyecto de análisis de datos se enfoca en el Índice de Marginalización en México utilizando la Base de datos por municipio 2020 del Consejo Nacional de Población. El objetivo es explorar y visualizar la distribución de la marginalización en el país y su relación con variables como el analfabetismo y la población en localidades pequeñas.
 
-Se puede explorar mucho más de la base de datos de la [CONAPO](https://www.gob.mx/conapo/documentos/indices-de-marginacion-2020-284372). Además en el siguiente [documento](https://www.gob.mx/cms/uploads/attachment/file/685354/Nota_te_cnica_IMEyM_2020.pdf) esta un documento que desarrolla el significado de las metricas utilizadas.
+Se puede explorar mucho más de la base de datos de la [CONAPO](https://www.gob.mx/conapo/documentos/indices-de-marginacion-2020-284372). Además en el siguiente [documento](https://www.gob.mx/cms/uploads/attachment/file/685354/Nota_te_cnica_IMEyM_2020.pdf) se desarrolla el significado de las metricas utilizadas.
 
 ## Bibliotecas utilizadas
 
